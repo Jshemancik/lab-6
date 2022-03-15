@@ -1,5 +1,5 @@
 #### CS 105
-# Chapter 6 - Lab - Turtle Racing
+# Chapter 7 - Lab - Turtle Racing
 
 ### [Assignment Description](https://docs.google.com/document/d/1IFYFk46rJa10M4fLJfgmtq-vvmvge_-Nt1QCbsp-_dI/edit?usp=sharing)
 
