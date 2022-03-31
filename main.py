@@ -1,4 +1,4 @@
-from turtle import Turtle
+from turtle import Turtle, Screen
 from random import randrange
 
 michelangelo = Turtle()    # 1.  Create two turtles
@@ -16,5 +16,14 @@ leonardo.goto(-100,-20)
 # Part A -  complete part A here
 
 
+
+
 # Part B - complete part B here
 
+
+
+
+
+# The lines below keep the window open after your porgram runs until you click it so you can see what is going on.
+window = Screen()
+window.exitonclick()
